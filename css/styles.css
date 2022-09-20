@@ -1,0 +1,10 @@
+body {
+    height: 100vh;
+}
+.btn-horario {
+    width: 70%;
+    opacity: 0.5;
+}
+.btn-horario:hover {
+    opacity: 1
+}
